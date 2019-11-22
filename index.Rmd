@@ -1,0 +1,17 @@
+---
+title: "Pavel's Website"
+---
+
+Hello, World!
+
+```{r, eval=FALSE}
+if (a > 3) {
+  moveShip(5 * gravity, DOWN);
+}
+```
+
+~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+code including tildes
+~~~~~~~~~~
+~~~~~~~~~~~~~~~~
